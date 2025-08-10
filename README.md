@@ -1,2 +1,2 @@
 # ml-odyssey
-ML Card Game
+ML Card Game for Review
